@@ -1,0 +1,6 @@
+*.o
+*.img
+fusefs
+tools/mkfs_tool
+tools/fsck_tool
+mnt/*
